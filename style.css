@@ -1,0 +1,18 @@
+  
+  
+body {
+    background:linear-gradient(#1DE9B6 0%,#E040FB 100%);;
+  }
+  #family_member_image {
+  border-style:solid;
+  border-color: #000000  
+  border 1px;
+  border-radius: 20px;
+  padding: 5px;
+  
+  }
+  #button {
+    font-variant: small-caps;
+    background-color: #FFEA00;
+  }
+  
